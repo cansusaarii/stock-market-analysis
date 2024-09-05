@@ -1,5 +1,8 @@
 # stock-market-analysis
-Data visualization with stock market data
+
+My notes from a Udemy course on data analysis and visualization with Python.
+
+# Data visualization with stock market data
 
 Getting the data
 
